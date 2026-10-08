@@ -1,0 +1,13 @@
+Query,Task,Main_Filter,Operator
+Q01,Customers from Germany,WHERE,WHERE
+Q02,"Customers from Germany, France or UK",IN,IN
+Q03,Products priced between 20 and 50,BETWEEN,BETWEEN
+Q04,Products starting with Ch,LIKE,LIKE
+Q05,Customers in London,LIKE,LIKE
+Q06,Products currently available,WHERE,WHERE
+Q07,Products with stock between 20 and 50,BETWEEN,BETWEEN
+Q08,Products priced below 10,WHERE,WHERE
+Q09,Customers whose company name contains Market,LIKE,LIKE
+Q10,"Products from category IDs 1, 2 or 3",IN,IN
+Q11,Customer contacts with Manager in their title,LIKE,LIKE
+Q12,Products containing Tofu,LIKE,LIKE
